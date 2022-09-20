@@ -1,6 +1,6 @@
 void setup() {
   //융합 sw 프로젝트입니다.
-  //version test
+  //version test2
 
 }
 
